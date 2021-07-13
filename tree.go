@@ -3,7 +3,7 @@ package rsmt2d
 import (
 	"crypto/sha256"
 
-	"github.com/lazyledger/merkletree"
+	"github.com/celestiaorg/merkletree"
 )
 
 // TreeConstructorFn creates a fresh Tree instance to be used as the Merkle inside of rsmt2d.

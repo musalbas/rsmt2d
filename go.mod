@@ -1,4 +1,4 @@
-module github.com/lazyledger/rsmt2d
+module github.com/celestiaorg/rsmt2d
 
 go 1.15
 
@@ -6,8 +6,8 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	// only needed if built with go build -tags leopard
-	github.com/lazyledger/go-leopard v0.0.0-20200724211609-50ec4b3fab41
-	github.com/lazyledger/merkletree v0.0.0-20201214195110-6901c4c3c75f
+	github.com/celestiaorg/go-leopard v0.0.0-20200724211609-50ec4b3fab41
+	github.com/celestiaorg/merkletree v0.0.0-20201214195110-6901c4c3c75f
 	github.com/stretchr/testify v1.7.0
 	github.com/vivint/infectious v0.0.0-20200605153912-25a574ae18a3
 	gitlab.com/NebulousLabs/errors v0.0.0-20200929122200-06c536cf6975 // indirect

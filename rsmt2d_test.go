@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/lazyledger/rsmt2d"
+	"github.com/celestiaorg/rsmt2d"
 )
 
 func TestRSMT2D(t *testing.T) {

@@ -28,7 +28,7 @@ jobs:
             go.sum
       - name: install leopard
         run: |
-          git clone https://github.com/lazyledger/go-leopard.git
+          git clone https://github.com/celestiaorg/go-leopard.git
           pushd go-leopard
           make build-cleo
           sudo make install-cleo
